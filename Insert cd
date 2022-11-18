@@ -1,0 +1,2 @@
+insert into bus_info(sid,sname,mobile_no) values(101,'Amay',755577),(102,'Ankit',333557),(103,'Arghya',678666);
+select * from bus_info;
