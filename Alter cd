@@ -1,2 +1,2 @@
-alter table bus_info add roll_no varchar(20);
+alter table bus_info add(roll_no varchar(20));
 desc bus_info;
