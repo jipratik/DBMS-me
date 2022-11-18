@@ -1,0 +1,2 @@
+delete from bus_info where sid=102;
+select * from bus_info;
