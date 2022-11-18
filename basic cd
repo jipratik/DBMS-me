@@ -1,0 +1,6 @@
+cd C:\xampp\mysql\bin
+mysql -u root
+create database bus;
+use bus;
+create table bus_info(sid int (10),sname varchar(20),mobile_no int, primary key(sid));
+desc bus_info;
